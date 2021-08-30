@@ -1,16 +1,13 @@
-### Hi there 👋
+# ¡Hola, soy Lucas! 👋
 
-<!--
-**lchirione/lchirione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Full Stack Developer con orientación al Front-End. Pero me encanta el Back-End🤟. Me formé como Developer en UTN - FRC y sigo capacitándome en CoderHouse
 
-Here are some ideas to get you started:
+## Las tecnologias que uso son:
+- HTML • CSS • JavaScript • Bootstrap • jQuery • React • NodeJS • Express • MongoDB
+- Wordpress • Google Ads • Google Analytics
+- Adobe XD • Adobe Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Podes contactartme por:
+
+- 📩 Email: lchirione@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/lchirione/
