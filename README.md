@@ -1,11 +1,12 @@
 # ¡Hola, soy Lucas! 👋
 
-Soy un Full Stack Developer con orientación al Front-End. Pero me encanta el Back-End🤟. Me formé como Developer en UTN - FRC y sigo capacitándome en CoderHouse
+Soy un Full Stack Developer con orientación al Front-End. Pero me encanta el Back-End🤟. Me formé como Developer en UTN - FRC y sigo capacitándome de manera autodidacta
 
 ## Las tecnologias que uso son:
-- HTML • CSS • JavaScript • Bootstrap • jQuery • React • NodeJS • Express • MongoDB
-- Wordpress • Google Ads • Google Analytics
-- Adobe XD • Adobe Illustrator
+- HTML • CSS • JavaScript • Bootstrap • jQuery • React • Redux • Hooks • NodeJS • Express • MongoDB • Python
+- Wordpress • WooCommerce
+- Google Cloud • AWS
+- Adobe XD
 
 ## Podes contactartme por:
 
